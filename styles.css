@@ -1,0 +1,15 @@
+
+.card {
+    width: 350px;
+    height: 350px;
+    margin-left: 10px;
+    margin-right: 10px;
+    overflow: auto ;
+}
+
+.fondo{
+    background-color: yellow;
+    padding: 15px;
+    margin: 5px;
+}
+
